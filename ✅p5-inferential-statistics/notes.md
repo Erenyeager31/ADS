@@ -1,4 +1,4 @@
-# GPT --> [convo](https://chatgpt.com/share/68091bce-df8c-800c-be72-14474821d55f)
+# GPT --> [convo](https://chatgpt.com/share/6809d472-0694-800c-903e-c9549f54231e)
 
 # dataset --> iris from sklearn
 
